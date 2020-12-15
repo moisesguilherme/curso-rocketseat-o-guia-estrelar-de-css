@@ -1,0 +1,11 @@
+/* Não recomendado */
+/*@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');*/
+
+h1 {
+    color: blue;            
+    font-family: 'Ranchers', cursive;
+}
+
+strong {
+    color: red;
+}

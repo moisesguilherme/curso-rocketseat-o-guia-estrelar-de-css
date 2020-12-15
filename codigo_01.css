@@ -1,0 +1,26 @@
+  /* Comentário */
+  /*
+  Selector
+  Declaration
+  Properties
+  Property Value
+  */
+  
+
+* {
+    margin: 0;
+  }
+  #container {
+    width: 200px;
+  }
+  
+  .m-40{
+    margin: 40px;
+  }
+  
+  h1, h2 {
+    color: red;
+    font-size: 60px;
+    background: black;
+  }
+  
